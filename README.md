@@ -1,6 +1,7 @@
 # NEUWaveLinux
 
 # Credit for this script goes to fellow Husky, PaulFurtado
+https://github.com/PaulFurtado/NUwave-Linux
 
 Fixes the NEU wifi issue when running Ubuntu / Linux
 
