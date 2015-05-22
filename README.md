@@ -1,4 +1,7 @@
 # NEUWaveLinux
+
+# Credit for this script goes to fellow Husky, PaulFurtado
+
 Fixes the NEU wifi issue when running Ubuntu / Linux
 
 Configure Network Manager:
